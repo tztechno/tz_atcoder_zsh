@@ -9,3 +9,35 @@ Here are the comparison operators for arithmetic expressions in Zsh/Bash:
 -gt: Greater than
 -ge: Greater than or equal to
 ```
+
+### latest
+---
+```
+
+```
+---
+```
+
+```
+---
+```
+
+```
+---
+```
+if文の構成
+if (xxxxx); then
+elif (xxxxx); then
+else
+fi
+```
+---
+```
+error: if (n==1); then
+success: if ((n==1)); then
+```
+---
+```
+#!/bin/zsh
+```
+---
