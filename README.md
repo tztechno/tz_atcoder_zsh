@@ -11,6 +11,7 @@ Here are the comparison operators for arithmetic expressions in Zsh/Bash:
 ```
 
 ### latest
+
 ---
 ```
 
@@ -22,6 +23,20 @@ Here are the comparison operators for arithmetic expressions in Zsh/Bash:
 ---
 ```
 
+```
+---
+```
+
+```
+---
+```
+read d
+echo -n Christmas
+for (( i = d; i < 25; ++i ))
+do
+  echo -n ' Eve'
+done
+echo
 ```
 ---
 ```
